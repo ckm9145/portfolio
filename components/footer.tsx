@@ -11,7 +11,7 @@ export default function Footer() {
                 About this website:
             </span>{" "}
             Built with React + Next.js (App Router + Server Actions), Typescript, Tailwind CSS, Framer Motion,
-            React Email + Resend, Github Hosting.
+            React Email + Resend, Vercel Hosting.
         </p>
     </footer>)
   
