@@ -19,22 +19,22 @@ export default function About() {
         >
         <SectionHeading> About me </SectionHeading>
         <p className="mb-3">
-            I am currently in the process of obtaining my Bachelor's and Master's Degree in{" "}
+            I am currently in the process of obtaining my Bachelor&apos;s and Master&apos;s Degree in{" "}
             <span className="font-medium">Computer Science</span> at{" "}
-            <span className='font-medium'>Northwestern University</span>. I am also member of the Varsity Men's Swim and Dive Team. This past summer I competed for Team USA at the World University games in Chengdu, China. 
+            <span className='font-medium'>Northwestern University</span>. I am also a member of the Varsity Men&apos;s Swim and Dive Team. This past summer I competed for Team USA at the World University games in Chengdu, China. 
               My current{" "}
             interests lie in the interesection of{" "}
             <span className='font-medium'>Machine Learning and Full Stack Software Engineering.</span> {" "}
             <span className='font-medium'>
-             I've cultivated a strong fascination with database systems, acknowledging their critical importance across both domains.</span>{" "}
+             I&apos;ve cultivated a strong fascination with database systems, acknowledging their critical importance across both domains.</span>{" "}
              I utilize{" "}
-            <span className='font-medium'>Python and cpp</span> as my main coding{" "}
+            <span className='font-medium'>Python and C++</span> as my main coding{" "}
             languages while having some experience using ML frameworks such as{" "}
-            <span className='font-medium'>PyTorch, Tensorflow, Sklearn.</span>
+            <span className='font-medium'>PyTorch, TensorFlow, Sklearn.</span>
         </p>
 
         <p>
-            <span className="italic">When I'm not coding</span>, I enjoy 
+            <span className="italic">When I&apos;m not coding</span>, I enjoy 
             fishing, watching movies, and hiking. I also enjoy{" "}
             <span className="font-medium">learning new things</span>. I am currently
             passionate about Formula 1 Racing and English Premier League Football.  {" "}
